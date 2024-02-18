@@ -22,3 +22,14 @@ Se você também está em uma jornada de aprendizado ou tem insights e experiên
 
 - 📧 marcosoctequ@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/marcos-guilherme-5278542b5/)
+
+## 🌠 Interesses Pessoais
+
+Aqui estão alguns dos meus interesses mais pessoais, os quais abordo com humildade e uma mente aberta:
+
+- 🌌 **Astrofísica**: Um interesse calmo pela complexidade do cosmos e o que ele pode nos ensinar.
+- 📸 **Astrofotografia**: Uma forma simples de capturar e compartilhar a maravilha do céu noturno.
+- 📚 **Leitura**: Livros são meus companheiros constantes, oferecendo novas perspectivas e sabedoria tranquila.
+
+- 🔍 Além disso, estou curioso sobre as possibilidades de aplicar a IA no campo da Astronomia e derivados.
+
