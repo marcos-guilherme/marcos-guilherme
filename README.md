@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e3a8a&height=180&section=header&text=Marcos%20Alves&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%26%20Applied%20AI%20Researcher&descAlignY=60&descSize=18" width="100%" alt="Marcos Alves Banner" />
+  <img src="./assets/banner.svg" width="100%" alt="Marcos Alves Banner" />
+
+  <br />
 
   <a href="https://github.com/marcos-guilherme">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1200&color=60A5FA&center=true&vCenter=true&width=580&lines=Audio+AI+%26+Deep+Learning;LLM+Safety+%26+Guardrails;Computer+Vision+%26+Medical+Data+Pipelines;Industrial+Time-Series+%26+Anomaly+Detection" alt="Focus areas" />
@@ -50,16 +52,5 @@
 ### GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcos-guilherme&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-guilherme&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Top Languages" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcos-guilherme&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcos-guilherme&theme=tokyo-night&hide_border=true" width="100%" alt="Commit Activity Graph" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0f172a&height=90&section=footer" width="100%" alt="Footer" />
