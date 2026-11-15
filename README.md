@@ -1,93 +1,54 @@
-# Olá! Eu sou o Marcos Guilherme
+# Marcos Alves
 
-### Pesquisador no Centro de Excelência em Inteligência Artificial (CEIA)
+**Machine Learning Engineer & Applied AI Researcher**
+Deep Learning (Audio & Computer Vision) · LLM Safety & Guardrails · Industrial Predictive Modeling
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/marcos-guilherme-5278542b5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-guilherme-5278542b5)
+[![MDPI Future Internet](https://img.shields.io/badge/Paper-Future%20Internet%202026-1A1A1A?style=flat-square)](https://www.mdpi.com/1999-5903/18/5/252)
+[![IEEE ETFA 2025](https://img.shields.io/badge/Paper-IEEE%20ETFA%202025-00629B?style=flat-square&logo=ieee&logoColor=white)](https://ieeexplore.ieee.org/abstract/document/11205577)
 
-## Sobre Mim
+---
 
-Sou um pesquisador e desenvolvedor prestes a concluir a graduação no pioneiro programa de Bacharelado em Inteligência Artificial da UFG. Com três anos de experiência prática no CEIA, meu foco é transformar dados complexos em soluções de IA robustas e aplicadas ao mundo real.
+### Experience & Research Focus
 
-Minha expertise vai do gerenciamento de pipelines de IA clássica até a implantação de modelos modernos de Deep Learning. Abaixo, detalho minhas principais frentes de atuação:
+- **Research Engineer — Moises AI** *(Jan 2026 – Present)*
+  Researched and implemented PyTorch architectures (Transformers, CNNs) with high parameter sharing for Automatic Chord Recognition (ACR), applying Focal Loss and gradient manipulation for extreme long-tailed class distributions alongside Active Learning and pseudo-labeling pipelines.
+- **Data Engineer & Computer Vision R&D — LAMIA / CEIA** *(Jan 2026 – Present)*
+  Engineered Medallion Architecture pipelines (Bronze/Silver/Gold) for medical imaging at CEONC (Cancer Hospital), integrating Tesseract OCR to strip embedded device metadata and eliminate dataset bias.
+- **R&D Engineer in Cybersecurity & Generative AI — AKCIT** *(Jan 2024 – Jan 2026)*
+  Evaluated LLM guardrails against jailbreaking and evasion attacks using NVIDIA NeMo Guardrails (lead author at SBSeg 2025 and *Future Internet* 2026); built a low-latency multimodal child-safety PoC orchestrating Vision-Language Models (Moondream) over audio, video, and chat streams.
+- **Data Scientist / ML Researcher — CEIA** *(Dec 2023 – Sep 2025)*
+  Delivered predictive monitoring and Remaining Useful Life (RUL) forecasting for High-Pressure Die Casting (HPDC) machinery using XGBoost, LightGBM, and a RAG-based agentic assistant for plant operators (IEEE ETFA 2025).
 
-* **Deep Learning & Maquinário Industrial (Pesquisador no CEIA)**
-  * Atuo como Cientista/Analista de Dados em um projeto focado no monitoramento e processamento de dados de maquinário industrial.
-  * Sou responsável pelo desenvolvimento de modelos de IA, aplicando desde Árvores de Decisão para detecção de anomalias até Deep Learning e arquiteturas Transformer para problemas sequenciais e análise de séries temporais.
-  * Realizo o ciclo completo de análise de dados, incluindo pré-processamento e EDA (Análise Exploratória de Dados) utilizando `pandas`, `numpy` e bibliotecas relacionadas.
+---
 
-* **IA Generativa & Cibersegurança (Pesquisador na AKCIT)**
-  * Contribuo para um projeto de pesquisa focado na intersecção entre IA Generativa e Cibersegurança.
-  * Conduzo estudos sobre métodos de invasão e jailbreaking de LLMs (Modelos Generativos de Linguagem), um trabalho que resultou em publicação acadêmica na área.
+### Selected Publications
 
-* **Desenvolvimento Mobile (Full-Stack)**
-  * Possuo experiência prática como desenvolvedor Flutter na criação de uma plataforma de sistema de gerenciamento para o CEIA.
-  * Utilizo o framework do Google e a linguagem Dart, com forte base em programação orientada a objetos.
+| Publication | Venue | Role | Link |
+|---|---|---|---|
+| **NeMo Guardrails as a Firewall for User–LLM Interaction** | SBSeg 2025 · *Future Internet* (MDPI, 2026) | Lead Author | [MDPI](https://www.mdpi.com/1999-5903/18/5/252) |
+| **Maintenance Forecasting and Remaining Useful Life of Die in HPDC** | IEEE ETFA 2025 | Co-author | [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/11205577) |
 
-## Publicações e Pesquisa
+---
 
-Tenho orgulho de ser um dos autores de artigos aceitos em conferências de alto impacto, como a IEEE ETFA e o SBSeg.
+### Featured Repositories
 
-**Avaliação do NeMo Guardrails como um Firewall para a Interação Usuário-LLM**
-* **Conferência:** Anais do Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais (SBSeg 2025)
-* Nesta pesquisa, analisamos a eficácia do NeMo Guardrails como um firewall contra ataques de *jailbreaking* e *prompt injection* em LLMs. Avaliamos seu desempenho em benchmarks (como o *Do Not Answer*) e propomos uma nova métrica, a "Taxa de Compensação", para medir sua eficácia como segunda linha de defesa.
-* ➡️ **[Confira o artigo aqui](https://sol.sbc.org.br/index.php/sbseg/article/view/36622)**
+| Repository | Focus | Stack |
+|---|---|---|
+| [`nemoguard_eval`](https://github.com/marcos-guilherme/nemoguard_eval) | Reproducible artifact for evaluating NVIDIA NeMo Guardrails against jailbreak and prompt-injection attacks | Python, NeMo Guardrails, Docker |
+| [`ml_training_pipeline`](https://github.com/marcos-guilherme/ml_training_pipeline) | Containerized ML training, evaluation, and model registration microservice on Google Cloud Run | Python, Scikit-learn, Flask, Docker, GCP |
+| [`zippyPOCmicroservs`](https://github.com/marcos-guilherme/zippyPOCmicroservs) | Vision-Language Model (VLM) inference API for image captioning and classification | Python, VLMs |
+| [`task_allocator`](https://github.com/marcos-guilherme/task_allocator) | Automated data extraction and task allocation powered by Gemini on Vertex AI | Python, Vertex AI, Gemini |
+| [`banquete_time2`](https://github.com/marcos-guilherme/banquete_time2) | Multi-agent pipeline for extracting and coding medical procedures from clinical notes | Python, LangChain, Pydantic, Supabase |
+| [`EEG2Image`](https://github.com/marcos-guilherme/EEG2Image) | EEG signal preprocessing, visualization, and deep learning experiments | Python, Jupyter |
 
-**Digital Transformation in HPDC: Maintenance Forecasting and Remaining Useful Life of Die**
-* **Conferência:** 2025 IEEE 30th International Conference on Emerging Technologies and Factory Automation (ETFA)
-* Neste trabalho, propomos um framework de manutenção preditiva para o processo de Fundição de Alta Pressão (HPDC). Combinamos Machine Learning clássico (LightGBM) e Large Language Models (LLMs) com RAG para prever a Vida Útil Restante (RUL) de moldes industriais, detectar anomalias e prever interrupções operacionais.
-* ➡️ **[Confira no programa da conferência](https://etfa2025.ieee-ies.org/program/index.html)**
+---
 
-## Minhas Ferramentas (Tech Stack)
+### Technical Stack
 
-<p>Minha stack principal para ciência de dados, deep learning e desenvolvimento.</p>
-
-<table width="100%">
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      <br><strong>Python</strong>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" />
-      <br><strong>PyTorch</strong>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" />
-      <br><strong>TensorFlow</strong>
-    </td>
-     <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-Learn" />
-      <br><strong>Scikit-Learn</strong>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
-      <br><strong>Pandas</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
-      <br><strong>NumPy</strong>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="GCP" />
-      <br><strong>GCP</strong>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" height="48" alt="Dart" />
-      <br><strong>Dart</strong>
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
-      <br><strong>Flutter</strong>
-    </td>
-    <td align="center" width="110">
-      <img src="httpsa://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="SQL" />
-      <br><strong>SQL</strong>
-    </td>
-  </tr>
-</table>
+| Domain | Technologies |
+|---|---|
+| **Deep Learning & Audio/Vision** | PyTorch, TensorFlow, Transformers, CNNs, Audio MIR/ACR, Computer Vision, Tesseract OCR, VLMs |
+| **LLMs, Agents & Safety** | NVIDIA NeMo Guardrails, LangChain, RAG, Pydantic, Vector Databases, Multi-Agent Systems |
+| **Classical ML & Data** | Scikit-learn, XGBoost, LightGBM, Pandas, NumPy, SHAP, Time-Series Anomaly Detection |
+| **MLOps & Data Engineering** | Python, SQL, FastAPI, Docker, GitHub Actions, Medallion Architecture, GCP, BigQuery, Airflow, Spark |
