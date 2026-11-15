@@ -33,6 +33,7 @@
 | Work | Focus | Links |
 |---|---|---|
 | [`chord-recognition-pipeline`](https://github.com/marcos-guilherme/chord-recognition-pipeline) | Parameter-shared Conformer, structured chord decomposition, Focal Loss, GradNorm, and Active Learning in PyTorch | `PyTorch` `Conformer` `Active Learning` |
+| [`socratic-learn`](https://github.com/socraticlearn/socratic-learn) | Portable, evidence-aware Socratic protocol and CLI for structured learning | `Python` `CLI` `Agentic Protocol` |
 | **NeMo Guardrails as a Firewall for User-LLM Interaction** | *Future Internet* (MDPI, 2026) · SBSeg 2025 | [Paper](https://www.mdpi.com/1999-5903/18/5/252) · [Artifact (`nemoguard_eval`)](https://github.com/marcos-guilherme/nemoguard_eval) |
 | **Maintenance Forecasting and Remaining Useful Life of Die in HPDC** | *IEEE ETFA 2025* | [Paper](https://ieeexplore.ieee.org/abstract/document/11205577) |
 
